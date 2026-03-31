@@ -1,5 +1,6 @@
 import Hero from "./components/Hero";
 import TechStack from "./components/TechStack";
+import SkillsGrid from "./components/SkillsGrid";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <div className="relative z-10 w-full">
         <Hero />
         <TechStack />
+        <SkillsGrid />
       </div>
     </main>
   );
