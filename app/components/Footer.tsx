@@ -25,7 +25,7 @@ export default function Footer() {
               </svg>
             </a>
             <a 
-              href="https://linkedin.com/in/rianlucass" 
+              href="https://www.linkedin.com/in/rian-lucas-961129280" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-[#a87ffb] hover:text-[#d1bbfd] transition-transform hover:scale-110" 
