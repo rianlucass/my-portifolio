@@ -1,6 +1,7 @@
 import Hero from "./components/Hero";
 import TechStack from "./components/TechStack";
 import SkillsGrid from "./components/SkillsGrid";
+import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
         <Hero />
         <TechStack />
         <SkillsGrid />
+        <Projects />
         <Footer />
       </div>
     </main>

@@ -1,7 +1,7 @@
 import { Video, Mail } from "lucide-react";
 
 const navLinks = [
-  { label: "projetos", href: "#experience" },
+  { label: "projetos", href: "#projects" },
   { label: "trabalhos", href: "#work" },
 ];
 
