@@ -68,7 +68,7 @@ export default function TechStack() {
             XP
           </h2>
           <p className="text-[#686868] text-base md:text-base leading-relaxed max-w-[200px]">
-            tecnologias que tenho experiência prática, seja em projetos pessoais ou profissionais
+            Tecnologias que mais tenho experiência prática, seja em projetos pessoais ou profissionais
           </p>
         </div>
 

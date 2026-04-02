@@ -2,7 +2,7 @@ import { Video, Mail } from "lucide-react";
 
 const navLinks = [
   { label: "projetos", href: "#projects" },
-  { label: "trabalhos", href: "#work" },
+  { label: "experiência", href: "#work" },
 ];
 
 function GitHubIcon() {

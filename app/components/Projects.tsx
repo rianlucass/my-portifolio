@@ -15,16 +15,17 @@ const projects: Project[] = [
     description:
       "Este portfólio desenvolvido com Next.js 15 e Tailwind CSS, apresentando cores suaves, design responsivo e animações sutis, afim de proporcionar uma experiência agradável ao usuário.",
     techs: ["Next.js", "TypeScript", "Tailwind CSS"],
-    github: "https://github.com/rianlucascs/my-portfolio",
+    github: "https://github.com/rianlucass/my-portifolio",
     demo: "#",
     highlight: true,
   },
   {
     title: "CaronaApp",
     description:
-      "CaronaApp é um aplicativo que desenvolvi para o TCC do meu curso, um aplicativo completo com GoogleMaps integrado, chat entre usuarios e gerenciamento de caronas com notificações a cada atualização de carona.",
+      "CaronaApp é um aplicativo que desenvolvi para o TCC do meu curso, um aplicativo completo com Firebase, GoogleMaps, chat entre usuarios, algoritmo de match para encontrar caronas de forma eficiente e gerenciamento de caronas.",
     techs: ["Spring Boot", "React Native", "PostgreSQL", "Docker"],
-    demo: "https://expo.dev/accounts/rianlcs/projects/viacarona/builds/16cc9e10-4c1b-4b9b-85be-145b789a0b75"
+    demo: "https://expo.dev/accounts/rianlcs/projects/viacarona/builds/16cc9e10-4c1b-4b9b-85be-145b789a0b75",
+    highlight: true,
   },
   {
     title: "Projeto em breve",
